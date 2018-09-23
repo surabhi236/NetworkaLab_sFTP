@@ -1,0 +1,10 @@
+TAGS
+cscope*
+*~
+build/
+bin/
+deps/
+out.s
+parse.txt
+lex.txt
+server_root
